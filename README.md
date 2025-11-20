@@ -35,7 +35,7 @@ O diferencial deste projeto é o **Dark Mode** com persistência visual e anima�
 ## 🚀 Como Acessar
 
 Você pode visualizar o projeto funcionando através deste link:
-🔗 **[Clique aqui para acessar](https://besk4r.github.io/minha-bio-links)**
+🔗 **[Clique aqui para acessar](https://queijodev.github.io/minha-bio-links)**
 
 ---
 
